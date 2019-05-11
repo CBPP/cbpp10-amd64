@@ -10,6 +10,6 @@ set -e
 
 apt-get -y install --no-install-recommends lxdm
 
-# apt-get -y install cbpp-metapackage
+apt-get -y install cbpp-metapackage
 
-# update-alternatives --set x-session-manager /usr/bin/openbox-session
+update-alternatives --set x-session-manager /usr/bin/openbox-session
