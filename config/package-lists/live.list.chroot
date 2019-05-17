@@ -3,3 +3,4 @@ live-config
 live-config-systemd
 
 sudo
+apt-transport-https
